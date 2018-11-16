@@ -1,2 +1,2 @@
 # Naive-Bayes-Classifier
-This code contains Naive Bayes Classifier without using existing packages of sklearn for movie review data - CSE575 ASSIGNMENT1
+This code contains Naive Bayes Classifier without using existing packages of sklearn for movie review data
